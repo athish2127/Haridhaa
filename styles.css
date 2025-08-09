@@ -1,0 +1,37 @@
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to bottom, #8B0000, #FFD700);
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 3em;
+    margin-top: 20px;
+}
+
+.message {
+    font-size: 1.2em;
+    margin: 20px 0;
+}
+
+.proposal {
+    font-size: 2em;
+    color: #FFD700;
+    margin: 20px 0;
+}
+
+.images img {
+    width: 300px;
+    margin: 10px;
+    border-radius: 15px;
+    box-shadow: 0 0 20px gold;
+}
+
+.song {
+    margin-top: 20px;
+    border-radius: 10px;
+}
